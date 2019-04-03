@@ -1,3 +1,3 @@
-# stephanievalenciaportfolio.github.io
+# stephanie.valencia.portfolio
 
 hello
